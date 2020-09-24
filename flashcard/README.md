@@ -7,7 +7,7 @@
 - Can I use this in terminal only?  I need to develop a terminal-only version.
 
 #### **11/11/2018**
-- To view, run "npm app.js".
+- To view, run "node app.js".
 - visit "localhost:3000/hello" or any files from the "views" folder.
 
 #### **10/20/2018**
